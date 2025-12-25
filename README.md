@@ -1,4 +1,4 @@
-**📍 Source:** <div align="center">
+<div align="center">
 
 # 🍌 Awesome Nano Banana Pro
 
