@@ -37,7 +37,19 @@ Welcome to **Awesome Nano Banana Pro** — a comprehensive, meticulously curated
 | **UI/UX Design** | Interactive web applications and interface mockups |
 | **Marketing Materials** | Posters, flyers, and promotional content |
 | **3D Visualizations** | Cinema-quality 3D renders and animations |
-| **Creative Experiments** | Boundary-pushing conceptual artwork | 
+| **Creative Experiments** | Boundary-pushing conceptual artwork |
+
+---
+
+## 📊 Repository Stats
+
+<div align="center">
+
+| 📚 Total Prompts | 🎨 Categories | 🌍 Sources | 🔄 Last Updated |
+|:----------------:|:-------------:|:----------:|:---------------:|
+| **80+** | **6+** | **Global** | **Dec 2025** |
+
+</div> 
 ---
 
 ## 📋 Table of Contents
@@ -1254,10 +1266,13 @@ Design an SVG Ferris wheel mechanical animation that includes a main wheel, cent
 </details>
 
 ### 73. Nick and Judy Xiaohongshu-Style Fourth-Wall-Breaking Selfie
+
 ![Nick and Judy Xiaohongshu-Style Fourth-Wall-Breaking Selfie](https://promptimg.ionicerrrrscode.com/images/ym_954.png)
-Source: jimeng.jianying.com (https://jimeng.jianying.com/ai-tool/work-detail/7576570007811886382?workDetailType=Image&itemType=9)
+
+**📍 Source:** [jimeng.jianying.com](https://jimeng.jianying.com/ai-tool/work-detail/7576570007811886382?workDetailType=Image&itemType=9)
+
 <details>
-<summary><b>Prompt</b></summary>
+<summary><b>🎯 View Prompt</b></summary>
 
 ```text
 Zootopia characters, Nick Wilde and Judy Hopps. Nick has orange-red fur, wears his classic green palm leaf print short-sleeved shirt, a blue and red striped tie, and khaki pants, with a handsome smirk. Judy has gray fur and purple eyes, ears perked up high, wearing a dark blue ZPD officer vest, silver badge, fully equipped belt, looking sweet and cute. The two sit side-by-side on the bottom edge of a giant, floating "Xiaohongshu" app interface frame. Breaking the fourth wall composition, their legs dangle outside the frame plane. Nick intimately wraps one arm around Judy's shoulder, while the other hand holds a smartphone extended far to the front, taking a selfie at a 45-degree angle (fisheye perspective). Judy leans closely against Nick, looking up at the camera with a sweet smile, showing off a sweet couple moment. The core of the image is a giant Xiaohongshu-style social media frame.
@@ -1358,10 +1373,13 @@ Please develop a web camera application with a retro Polaroid atmosphere. Place 
 </details>
 
 ### 80. Cinematic Scientist Portrait
+
 ![Cinematic Scientist Portrait](https://promptimg.ionicerrrrscode.com/images/ym_974.jpg)
-Source: @Leah (https://x.com/leahlibest)
+
+**📍 Source:** [@Leah](https://x.com/leahlibest)
+
 <details>
-<summary><b>Prompt</b></summary>
+<summary><b>🎯 View Prompt</b></summary>
 
 ```text
 35mm black and white film style, a scientist gazing at a suspended atom model in a dim laboratory, strong Rembrandt side light striking from 45 degrees on the left, smoke forming layers in the light beam, deep facial wrinkles clearly visible, background experimental equipment blurred, film grain simulation ISO 800, high contrast black and white tone, dramatic chiaroscuro, Christopher Nolan cinematography style, anamorphic widescreen ratio 2.39:1
