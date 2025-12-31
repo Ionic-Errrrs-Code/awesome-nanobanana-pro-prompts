@@ -55,6 +55,7 @@ Welcome to **Awesome Nano Banana Pro** — a comprehensive, meticulously curated
 ## 📋 Table of Contents
 
 - [🚀 Quick Start](#-quick-start)
+- [📚 Prompt Collections](#-prompt-collections)
 - [🎨 Featured Collections](#-featured-collections)
   - [Portrait Photography](#portrait-photography)
   - [UI/UX & Web Development](#uiux--web-development)
@@ -79,6 +80,31 @@ Getting started is simple:
 5. **🚀 Generate** stunning AI content with your chosen model
 
 > **💡 Pro Tip**: The prompts are categorized by use case. Use your browser's search function (`Ctrl+F` or `Cmd+F`) to quickly find specific topics or styles.
+
+---
+
+## 📚 Prompt Collections
+
+Browse our complete collection of 1000+ prompts, organized in sets of 100 for easy navigation:
+
+<div align="center">
+
+| Collection | Prompts | Link |
+|:----------:|:-------:|:----:|
+| **Set 1** | 1-100 | [View Prompts →](1-100.md) |
+| **Set 2** | 101-200 | [View Prompts →](101-200.md) |
+| **Set 3** | 201-300 | [View Prompts →](201-300.md) |
+| **Set 4** | 301-400 | [View Prompts →](301-400.md) |
+| **Set 5** | 401-500 | [View Prompts →](401-500.md) |
+| **Set 6** | 501-600 | [View Prompts →](501-600.md) |
+| **Set 7** | 601-700 | [View Prompts →](601-700.md) |
+| **Set 8** | 701-800 | [View Prompts →](701-800.md) |
+| **Set 9** | 801-900 | [View Prompts →](801-900.md) |
+| **Set 10** | 901-1000 | [View Prompts →](901-1000.md) |
+
+</div>
+
+> **📌 Note**: Each collection contains 100 carefully curated prompts with detailed descriptions, example outputs, and usage instructions.
 
 ---
 
