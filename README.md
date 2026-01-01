@@ -47,7 +47,7 @@ Welcome to **Awesome Nano Banana Pro** — a comprehensive, meticulously curated
 
 | 📚 Total Prompts | 🎨 Categories | 🌍 Sources | 🔄 Last Updated |
 |:----------------:|:-------------:|:----------:|:---------------:|
-| **150+** | **6+** | **Global** | **Dec 2025** |
+| **1000+** | **6+** | **Global** | **Dec 2025** |
 
 </div> 
 ---
