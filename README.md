@@ -28,17 +28,6 @@ Welcome to **Awesome Nano Banana Pro** — a comprehensive, meticulously curated
 - **🎨 Real Examples**: Each prompt includes actual output samples for reference
 - **🔄 Regular Updates**: Continuously updated with the latest techniques and discoveries
 
-### 💎 Core Focus Areas
-
-| Category | Description |
-|----------|-------------|
-| **Photorealistic Portraits** | Studio-quality human portraits with professional lighting |
-| **Stylized Aesthetics** | Artistic renditions across diverse visual styles |
-| **UI/UX Design** | Interactive web applications and interface mockups |
-| **Marketing Materials** | Posters, flyers, and promotional content |
-| **3D Visualizations** | Cinema-quality 3D renders and animations |
-| **Creative Experiments** | Boundary-pushing conceptual artwork |
-
 ---
 
 ## 📊 Repository Stats
